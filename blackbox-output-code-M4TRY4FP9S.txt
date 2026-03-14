@@ -1,0 +1,4 @@
+🌐 MAIN GAME: https://lucknow-game-final.vercel.app
+🔧 ADMIN PANEL: https://lucknow-game-final.vercel.app/admin
+💳 PAYMENT: https://lucknow-game-final.vercel.app/pay
+📱 MOBILE PWA: https://lucknow-game-final.vercel.app
