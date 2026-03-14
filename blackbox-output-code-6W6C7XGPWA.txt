@@ -1,0 +1,9 @@
+color-prediction/
+├── public/
+│   ├── index.html          (User Frontend)
+│   ├── admin.html          (Admin Panel)
+│   ├── style.css
+│   └── script.js
+├── server.js               (Node.js Backend)
+├── package.json
+└── README.md

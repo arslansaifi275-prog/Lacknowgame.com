@@ -1,0 +1,5 @@
+1. Go: https://vercel.com/new
+2. Sign up (GitHub/Google)
+3. Drag your "lucknow-game" folder
+4. Click Deploy
+5. ✅ LIVE URL in 30 seconds!
